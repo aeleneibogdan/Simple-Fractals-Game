@@ -1,0 +1,8 @@
+C:\Users\aelen\OneDrive\Desktop\Lab5 - OpenGL\Debug\ACG_Lab5.exe
+C:\Users\aelen\OneDrive\Desktop\Lab5 - OpenGL\Debug\ACG_Lab5.pdb
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\Lab5 - OpenGL\Debug\ACG_Lab5.exe
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\Lab5 - OpenGL\Debug\ACG_Lab5.pdb
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\Simple Fractals Game\Debug\ACG_Lab5.exe
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\Simple Fractals Game\Debug\ACG_Lab5.pdb
+C:\Users\andrei.nichita0308\Desktop\3rd year\sem1\ACG lab\BigHW1_Aelenei_Nichita_1232A\Simple Fractals Game\Debug\ACG_Lab5.exe
+C:\Users\andrei.nichita0308\Desktop\3rd year\sem1\ACG lab\BigHW1_Aelenei_Nichita_1232A\Simple Fractals Game\Debug\ACG_Lab5.pdb
